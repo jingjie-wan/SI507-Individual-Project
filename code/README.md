@@ -1,3 +1,4 @@
+# Data Structure Description
 I used tree as the data structure in this project. The tree is stored as tuple, whose first element is a question, second element is the left subtree containing questions and movies if the answer to the question is yes, and third element is the right subtree containing questions and movies if the answer to the question is no. When the questions are exhausted or there is only one movie in a subtree, the subtree would be a leaf in the form of (movies, None, None), where 'movies' is a string containing the information of all movies in the leaf.
 
 Data is organized into tree in Tree.json by the following steps by Construct_tree.py:
