@@ -6,5 +6,6 @@ It is easy to interact with the system: just follow the instructions in the comm
 
 Note: if the system cannot find movies meeting your requirements, don't worry! Change your answers a little bit and try again.
 
-Required Python packages: pandas, webbrowser, requests, bs4
+## Required Python packages: 
+pandas, webbrowser, requests, bs4
 
